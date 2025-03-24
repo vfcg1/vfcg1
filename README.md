@@ -3,30 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>US的空间</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: #666;
-        }
-        a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+   <h1> 嗨，我的空间😂</h1>
+ <p> 一首古诗</p>
+<p>  唐   </p>
+   <p> 与君青眼客，共有白云心。</p>
+   <p> 不向东山去，日令春草深。</p>
     <h1>欢迎来到我的空间！</h1>
     <p>这是一个简单的有趣的。</p>
     <p>自己搜索：</p>
